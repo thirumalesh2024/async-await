@@ -1,0 +1,18 @@
+index.js:37 1
+index.js:4 Promise
+index.js:21 Before delay
+index.js:37 1
+index.js:42 3
+index.js:45 Start
+index.js:50 Outside
+index.js:39 2
+Error: Oops!
+    at errorFunction (index.js:16:9)
+    at index.js:18:1
+index.js:55 Success
+index.js:39 2
+index.js:55 Success
+10
+(index):43 Live reload enabled.
+index.js:23 After delay
+index.js:47 End
